@@ -1,0 +1,7 @@
+{
+  "name": "dungeon-nexus-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "stripe": "^12.0.0"
+  }
+}
